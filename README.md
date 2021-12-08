@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandrika Sowmini
 - 👀 I’m interested in Data Science, Machine Learning, NLP, Web Devlopment.
-- 🌱 I’m currently working as SAP Analyst at Deloitte.
+- 🌱 I’m currently working as Analyst at Deloitte.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me [Chandrika Sowmini D](https://www.linkedin.com/in/chandrikasowmini-d19/)
 
